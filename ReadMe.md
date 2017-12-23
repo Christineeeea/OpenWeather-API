@@ -1,5 +1,5 @@
 
-## WeatherPy
+## Analysis
 
 Trend: 
 1. The closer to equator, the higher the temperature. 
