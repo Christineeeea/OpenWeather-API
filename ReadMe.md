@@ -368,5 +368,5 @@ plt.show()
 ```
 
 
-![png](output_13_0.png)
+![png](City Latitude vs. Wind Speed.png)
 
