@@ -1,6 +1,11 @@
 
 ## WeatherPy
 
+Trend: 
+1. The closer to equator, the higher the temperature. 
+2. Humidity and cloudiness seem to have no relationships with the distance from the equator. 
+3. It seems like equator has 
+
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api), and a little common sense to create a representative model of weather across world cities.
 
 Your objective is to build a series of scatter plots to showcase the following relationships:
