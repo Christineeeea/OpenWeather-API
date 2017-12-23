@@ -4,7 +4,7 @@
 Trend: 
 1. The closer to equator, the higher the temperature. 
 2. Humidity and cloudiness seem to have no relationships with the distance from the equator. 
-3. It seems like equator has 
+3. It seems like the higher the latitude, the higher the wind speed, but we need to do more analysis on this in order to find out.
 
 
 
